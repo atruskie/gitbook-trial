@@ -6,6 +6,10 @@ Use this area to play with the editor and get to grips with some of the content 
 
 i am an edit
 
+
+
+![](.gitbook/assets/ecosounds.svg)
+
 ## Moving on
 
 All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.

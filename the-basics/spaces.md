@@ -2,7 +2,7 @@
 
 ## A space to create
 
-Almost everything in GitBook revolves around a **space**. What you're looking at right now is a space (well, technically, it's some words inside a content block inside a page inside a space, but let's not get too fancy) and it's basically a collection of pages.
+Almost everything in GitBook revolves around a **space**. What you're looking at right now is a space (well, technically, it's some words inside a content block inside a page inside a space, but let's not get too fancy) and it's basically a collectionsdffsfsfsf of pages.
 
 Folks use spaces for all kinds of things. You might want to create API documentation, a design system, a place to document calls and meetings. Whatever it might be, chances are, you'll be using spaces a bunch in GitBook.
 
